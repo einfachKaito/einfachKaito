@@ -1,16 +1,16 @@
 # 👋 Hey, ich bin Kaito
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer+since+Summer+2016;Minecraft+Plugin+Creator;Hytale+Plugin+Creator;&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=+Bedrock+Developer;Since+I+was+12+years+old;Minecraft+Plugin+Creator;&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </div>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=einfachKaito&label=Profile%20views&color=e34f26&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 **Seit 2016**: Java-Development mit Leidenschaft
-- 🎮 **Minecraft + Hytale**: Plugin-Entwicklung für bessere Server-Experience
-- 💀 **Selbsterkenntnis**: Ich weiß, dass mein Code Kriegsverbrechen sind
+- 🔭 **Seit 2015**: Java-Development mit Leidenschaft
+- 🎮 **Bedrock Devlopment**: Plugin-Entwicklung für bessere Server-Experience
+- ✨ **Skils**: Pocketmine, Nukkit, PowerNukkitX
 
 ---
 
@@ -33,10 +33,6 @@
 </div>
 
 ---
-
-<p align="center">
-  <i>✨ Java since February 2016 ✨</i>
-</p>
 
 <div align="center">
   💙 Danke fürs Vorbeischauen! 💙
