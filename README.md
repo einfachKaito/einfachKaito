@@ -8,9 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=einfachKaito&label=Profile%20views&color=e34f26&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 **Seit 2015**: Java-Development mit Leidenschaft
+- 🔭 **Seit 2015**: Bedrock-Development mit Leidenschaft
 - 🎮 **Bedrock Devlopment**: Plugin-Entwicklung für bessere Server-Experience
-- ✨ **Skils**: Pocketmine, Nukkit, PowerNukkitX
+- ✨ **Skils**: PocketMine-MP, Nukkit, PowerNukkitX, CloudNET, und mehr...
 
 ---
 
