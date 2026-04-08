@@ -1,7 +1,7 @@
-# 👋 Hey, ich bin Kaito
+# 👋 Hi, I'm Kaito
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Creative+Designer;Coding+Since+12;&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Creative+Designer;Coding+Since+12;;Minecraft+Developer;Coding+Since+12&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </div>
 
 <p align="center"> 
@@ -10,36 +10,36 @@
 
 ---
 
-## 💻 Über mich
-- 🔹 **Programmierer seit 12 Jahren** – von Java bis C++, von Ruby bis Lua  
-- 🔹 **Full-Stack Developer**: JavaScript, PHP, Java, C#, C++, Ruby, Lua, SQL (MariaDB & MongoDB)  
-- 🔹 **Game Dev & Indie Projects**: Minecraft & eigene Indie-Projekte  
-- 🔹 **Kreativ seit 12 Jahren** – UI/UX, Grafik, Animation, Motion Design  
-- 🔹 **Tools**: Photoshop, Illustrator, InDesign, XD, Premiere Pro, After Effects, JetBrains IDEs  
+## 💻 About Me
+- 🔹 **Coding for 12 years** – from Java to C++, Ruby to Lua  
+- 🔹 **Full-Stack Developer**: Experienced in JavaScript, PHP, Java, C#, C++, Ruby, Lua, SQL (MariaDB & MongoDB)  
+- 🔹 **Game Developer & Indie Enthusiast**: Specializing in Minecraft development and personal indie projects  
+- 🔹 **Creative Passion for 12 years** – Expertise in UI/UX design, graphic design, animation, and motion design  
+- 🔹 **Favorite Tools**: Proficient with Photoshop, Illustrator, InDesign, XD, Premiere Pro, After Effects, and JetBrains IDEs  
 
 ---
 
 ## 🛠️ Skills
 
-**Languages & Frameworks:**  
-JavaScript · PHP · Java · C · C# · C++ · Ruby · Lua · SQL / MariaDB / MongoDB · Assembler  
+**Programming Languages & Frameworks:**  
+Advanced knowledge of JavaScript, PHP, Java, C, C#, C++, Ruby, Lua, SQL (including MariaDB and MongoDB), and assembly language. Proficient with frameworks and tools like PocketMine, PowerNukkitX, WaterdogPE, PaperSpigot, Velocity, and GeyserMC.
 
-**Design & Multimedia:**  
-Photoshop · Illustrator · InDesign · XD · Premiere Pro · After Effects  
+**Design & Multimedia Tools:**  
+Highly skilled with Adobe Creative Suite applications such as Photoshop, Illustrator, InDesign, XD, Premiere Pro, and After Effects.
 
-**Dev Tools & IDEs:**  
-IntelliJ IDEA · Rider · WebStorm · Git / GitHub  
+**Development Tools & Version Control:**  
+Proficient with IDEs like IntelliJ IDEA, Rider, and WebStorm. Comfortable using version control systems like Git and GitHub.  
 
 ---
 
-## 📫 Kontakt
+## 📫 Contact
 
 <div align="center">
 
 ![Discord](https://img.shields.io/badge/-einfachKaito-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![GitHub](https://img.shields.io/badge/-einfachKaito-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/-einfachKaito-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-**Hauptsächlich auf Discord erreichbar:** `einfachKaito`
+Feel free to reach out primarily on Discord: `einfachKaito`
 
 </div>
 
@@ -52,5 +52,5 @@ IntelliJ IDEA · Rider · WebStorm · Git / GitHub
 ---
 
 <div align="center">
-  💙 Danke fürs Vorbeischauen! 💙
+  💙 Thanks for stopping by! 💙
 </div>
