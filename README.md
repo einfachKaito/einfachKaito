@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kaito
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Creative+Designer;Coding+Since+12;;Minecraft+Developer;Coding+Since+12&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;(Game)+Designer;Coding+Since+12;;Minecraft+Bedrock+Developer;Coding+Since+12&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </div>
 
 <p align="center"> 
