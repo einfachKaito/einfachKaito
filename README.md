@@ -28,7 +28,7 @@ Advanced knowledge of JavaScript, PHP, Java, C, C#, C++, Ruby, Lua, SQL (includi
 Highly skilled with Adobe Creative Suite applications such as Photoshop, Illustrator, InDesign, XD, Premiere Pro, and After Effects.
 
 **Development Tools & Version Control:**  
-Proficient with IDEs like IntelliJ IDEA, Rider, and WebStorm. Comfortable using version control systems like Git and GitHub.  
+Proficient with IDEs like IntelliJ, Rider, and WebStorm. Comfortable using version control systems like Git and GitHub.  
 
 ---
 
