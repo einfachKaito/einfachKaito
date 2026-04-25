@@ -52,5 +52,5 @@ Feel free to reach out primarily on Discord: `einfachKaito`
 ---
 
 <div align="center">
-  💙 Thanks for stopping by! 💙
+  💙 Thanks 💙
 </div>
