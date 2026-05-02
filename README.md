@@ -16,7 +16,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-einfachKaito-ffd700?style=for-the-badge&logo=discord&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-einfachKaito-ffd700?style=for-the-badge&logo=github&logoColor=black"/>
 </p>
 
 <br>
