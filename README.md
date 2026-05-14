@@ -11,7 +11,9 @@
   <img alt="Java" width="30px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/378554371540553613-512.png" />
   <img alt="MariaDB" width="30px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mariadb.webp" />
   <img alt="MongoDB" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png" />
-  <img alt="PowerNukkitX" width="30px" src="https://docs.powernukkitx.org/img/PNX_LOGO_sm.png" />
+  <img alt="PaperSpigot" width="30px" src="https://papermc.io/assets/logo/256x.png" />
+  <img alt="Velocity" width="30px" src="https://avatars.githubusercontent.com/u/41710604?s=280&v=4" />
+
 </p>
 
 <p align="center">
