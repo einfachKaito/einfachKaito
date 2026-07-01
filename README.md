@@ -1,7 +1,7 @@
 <h3 align="center">EinfachKaito</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=einfachKaito&label=Profile%20Views&color=ffd700&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=einfachKaito&label=Profile%20Views&color=34a8eb&style=flat" />
 </p>
 
 <br>
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Discord-einfachKaito-ffd700?style=for-the-badge&logo=discord&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Discord-einfachKaito-34a8eb?style=for-the-badge&logo=discord&logoColor=black"/>
 </p>
 
 <br>
