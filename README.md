@@ -1,19 +1,11 @@
 <h3 align="center">EinfachKaito</h3>
+<p align="center">
+  <a href="https://ibb.co/8LTRZLT8"><img src="https://i.ibb.co/Q3zqw3zm/Banner-Kaito.png" alt="Banner-Kaito" border="0"></a>
+  <br>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=einfachKaito&label=Profile%20Views&color=34a8eb&style=flat" />
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="IntelliJ" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
-  <img alt="Java" width="30px" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/378554371540553613-512.png" />
-  <img alt="MariaDB" width="30px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/mariadb.webp" />
-  <img alt="MongoDB" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png" />
-  <img alt="PaperSpigot" width="30px" src="https://papermc.io/assets/logo/256x.png" />
-  <img alt="Velocity" width="30px" src="https://avatars.githubusercontent.com/u/41710604?s=280&v=4" />
-
 </p>
 
 <p align="center">
