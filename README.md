@@ -1,6 +1,6 @@
 <h3 align="center">EinfachKaito</h3>
 <p align="center">
-  <a href="https://ibb.co/8LTRZLT8"><img src="https://i.ibb.co/Q3zqw3zm/Banner-Kaito.png" alt="Banner-Kaito" border="0"></a>
+  <a href="[https://ibb.co/8LTRZLT8](https://pbs.twimg.com/profile_banners/1895109006110400516/1786755685/1500x500)"><img src="https://pbs.twimg.com/profile_banners/1895109006110400516/1786755685/1500x500" alt="Banner-Kaito" border="0"></a>
   <br>
 </p>
 
