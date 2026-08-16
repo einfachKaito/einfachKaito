@@ -29,7 +29,7 @@ Proficient in using IDEs such as IntelliJ, Rider, and WebStorm. I am also experi
 ## 💻 About Me
 - **Coding Background**: 12 years in languages like Java, C++, Ruby, and Lua.
 - **Full-Stack Developer**: Experienced with JavaScript, PHP, Java, C#, C++, Ruby, Lua, SQL (MariaDB & MongoDB).
-- **Game Developer & Indie Enthusiast**: Specializing in Minecraft development and personal indie projects.
+- **Game Developer** & **Indie Enthusiast**: Focused on Minecraft development and creating personal indie game projects.
 - **Creative Skills**: 12 years of expertise in UI/UX design, graphic design, animation, and motion design.
 - **Preferred Tools**: Skilled with Photoshop, Illustrator, InDesign, XD, Premiere Pro, After Effects, and JetBrains IDEs.
 
