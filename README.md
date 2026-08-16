@@ -46,6 +46,7 @@ Proficient in using IDEs such as IntelliJ, Rider, and WebStorm. I am also experi
 ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)&nbsp;&nbsp;&nbsp;
 ![Twitch](https://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
 
-You can reach out to me mainly on Discord: `einfachKaito`
+You can primarily contact me on Discord: `einfachKaito`. 
+For all other links, visit https://einfachkaito.itch.io/.
 
 </div>
