@@ -1,5 +1,5 @@
 <p align="center">
-  👋 Hi, I'm Kaito! :D
+  👋 Hi, I'm Kite! :D
 </p>
 
 <p align="center">
